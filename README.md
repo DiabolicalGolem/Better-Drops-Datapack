@@ -1,4 +1,4 @@
-﻿# Better Drops (Datapack)
+﻿# ![pack.png](https://github.com/DiabolicalGolem/Better-Drops-Datapack/blob/main/pack.png) Better Drops (Datapack)
 
 *Adding drops to the dropless.*
 
