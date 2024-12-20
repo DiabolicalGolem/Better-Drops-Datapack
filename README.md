@@ -12,6 +12,8 @@ As of right now, this datapack only changes the loot tables of the mobs in quest
 
 To install this datapack, just follow the tutorial [here](https://minecraft.wiki/w/Tutorial:Installing_a_data_pack). It should sort out the rest.
 
+In addition, you will also need to have [CIT Resewn](https://modrinth.com/mod/cit-resewn/versions) installed.
+
 ## Mob Drops Included:
 
 - Allays
